@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo&color=%237AEBB3&size=30&center=false&vCenter=true&lines=Welcome+to+my+page!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo&color=36b3f2&size=30&lines=Welcome+to+my+page!)](https://git.io/typing-svg)
 <h1> Hi, my name is Gilda </h1> 
-<h2> About me :snowflake: </h2>
+<h2> About me  </h2>
 <p>I am a junior developer who loves and enjoys the process of learning new things. I'm currently working as a frontend developer.</p>
 
 <h2>  What I'm interested in</h2>
@@ -28,4 +29,4 @@
 
 <h2> GitHub Stats </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrp22&theme=cobalt&show_icons=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmrp22&theme=algolia&show_icons=false)
