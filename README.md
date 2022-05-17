@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Exo&color=%235BA8FF&size=30&lines=Welcome+to+my+page!)](https://git.io/typing-svg)
 <h1> Hi, my name is Gilda </h1> 
 <h2> About me  </h2>
-<p>I am a junior developer who loves and enjoys the process of learning new things. I'm currently working as a frontend developer.</p>
+<p>I am a junior developer who loves and enjoys the process of learning new things. I'm currently working as a full stack developer.</p>
 
 <h2>  What I'm interested in</h2>
 <p>I'm passionate about web development, javascript and python.</p>
