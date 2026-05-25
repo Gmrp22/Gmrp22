@@ -1,6 +1,6 @@
 # Hi, I'm Gilda 👋
 
-Full Stack Developer with 4+ years of experience building web applications and AI automation solutions.
+Full Stack Developer with 5 years of experience building web applications and AI automation solutions.
 
 ## 🔧 Tech Stack
 **Frontend:** React, Redux, Angular, JavaScript  
